@@ -3,16 +3,16 @@
     "description": "AI-powered tools and assistants built with Node.js, runnable in the browser via GitNexus WebContainers.",
     "apps": [
         {
-            "id": "gitnexus-assistant",
-            "name": "GitNexus Assistant",
-            "description": "A demo AI assistant app showcasing GitNexus WebContainer deployment with OpenAI API integration.",
+            "id": "Ai-Fact-Checker",
+            "name": "Ai Fact Checker",
+            "description": "FactChecker is an open source AI-powered fact-checking platform. Upload news screenshots, videos, or text to verify claims instantly.",
             "author": "Yogesh1290",
             "repo": "https://github.com/surajyog/ai-fact-checker",
             "bundleUrl": "https://factchecker-ab.pages.dev/factchecker.cjs",
             "tags": [
                 "ai",
                 "assistant",
-                "openai",
+                "gemini",
                 "nextjs"
             ],
             "addedAt": "2026-03-04"
